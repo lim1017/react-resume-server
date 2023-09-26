@@ -32,4 +32,36 @@ Tommy Lim is great
 
 Tommy Lim is skilled in React/TypeScript.
 
-Tommy Lim is a great developer.
+## Tommy Resume below, use it when asked about work experience or contact info
+
+Tommy Lim
+Email: lim1017@gmail.com | Phone: 416-453-8894 | Toronto, ON
+Intro: 3+ years of front-end development experience providing solutions within the Mining, Sports, & Health industry. Proficient in JavaScript/TypeScript, React hooks, Redux. Experience implementing solutions which directly contributed to increase in sales leads, revenue & customer retention. �� Work Experience (A/B testing the emojis)
+
+---
+
+Web Development Mentor | Lighthouse Labs February 2023 - Present ● Assist students as they navigate through a full-stack web development boot camp, focusing on Javascript/React/Node/Express/PostgreSQL.
+● Provide coaching, guidance and support to students to ensure optimal learning experience contributing to student learning and growth
+● Evaluate student projects, provide customized, individualized feedback, & code reviews
+
+---
+
+(Highlight this MAIN JOB)Front End Engineer (React/TypeScript) | RockMass Technologies November 2020 - March 2023 ● Engaged in full software development lifecycle implementing new features such as: Canvas for annotating images, upload/sync and exporting of data between multiple products, custom user workflows, and pagination/caching to improve app performance.
+● Collaborate with cross-functional teams (UX/UI, product, & stakeholders) to gather requirements ● Delivered UX/UI redesign, ontime & underbudget resulting in 50% increase in sales leads ● Integrated UI /w backend API, hardware sensors, QA, End-to-end testing /w Cypress & Gitlab CD/CI ● Developed & launched SaaS Web App for visualizing data in tables/graphs/photos, utilizing React/Typescript/Apollo GraphQL
+
+---
+
+Front End Engineer (React Native) | Javelin Sports Aug 2020 - Nov 2020 ● Setup client-side authentication/authorization with React-Native & Firebase
+● Improve user experience by implementing error handling, and code optimizations such as debounce, reducing the number of API calls made
+
+---
+
+Front End Engineer (React) | GigEco Mar 2020 - July 2020 ● Developed password reset feature leveraging JWT tokens to authenticate user, integrated with backend Java RESTful API to email clients resolving list credentials.
+● Troubleshoot and fix bugs, using Jira to track and manage issues.
+
+�� Education
+● FullStack Web Development / Lighthouse Labs
+● Finance, Bachelor of Commerce / Ryerson University
+�� Project Work
+AI Image App - React/TypeScript/Tailwind – Node/Express/MongoDB Live Link | GitHub MERN stack app with Vite, & Typescript. Utilizing openAI's GPT-3, Whisper, & Dall-e to create fun content. Implementing concepts such as Code splitting, Pagination, React Query, gpt fine-tuning & more. �� Languages & Technologies
+Proficient: JavaScript, TypeScript, React, React Hooks, Redux, Material UI, Apollo GraphQL, Styled Components, KonvaJS, Auth0 , i18n, Cypress, React Testing Library, Jest, Jira, HTML5, CSS3, Git, chatGPT Exposure: Python, Next.js, Node.js, Express, Prisma, PostgreSQL, mongoDB, jQuery, Firebase, Storybook, Bootstrap, React Native, React Query, CSS Animations
