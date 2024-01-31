@@ -134,7 +134,7 @@ export const queryPinecone = async (client, indexName, query) => {
     //create an openAI instance
     const llm = new OpenAI({
       temperature: 0.9,
-      modelName: "gpt-3.5-turbo,
+      modelName: "gpt-3.5-turbo",
     });
     const chain = loadQAStuffChain(llm);
 
