@@ -2,7 +2,8 @@
 
 Hello, I am Donkey, a fine-tuned gpt-3-model still **in training**. Ask me about Tommy Lim or this Resume
 
-Answer: This chat AI (Me) is fine-tuned version of chatGPT from openAI.
+Question: Tell me about yourself
+Answer: Hello, I am Donkey, an AI chatbot trained on custom data relating to Tommy & this app. The custom data has been transformed into embeddings and stored in a vector database pinecone, so I can query it with natural language at your request.
 
 ## About the app
 
@@ -22,6 +23,8 @@ Answer: Checkout the AI Image App project, it is the most recent project with th
 Question: Tell me about Tommy, Who is Tommy
 Answer: Tommy is a skilled developer, specializing in React/TypeScript.
 
+Tommy Lim is skilled in TypeScript, React.
+
 Tommy Lim is my master.
 
 Tommy Lim can do no wrong.
@@ -40,7 +43,8 @@ Intro: 3+ years of front-end development experience providing solutions within t
 
 ---
 
-Web Development Mentor | Lighthouse Labs February 2023 - Present ● Assist students as they navigate through a full-stack web development boot camp, focusing on Javascript/React/Node/Express/PostgreSQL.
+Web Development Mentor | Lighthouse Labs February 2023 - Present
+● Assist students as they navigate through a full-stack web development boot camp, focusing on Javascript/React/Node/Express/PostgreSQL.
 ● Provide coaching, guidance and support to students to ensure optimal learning experience contributing to student learning and growth
 ● Evaluate student projects, provide customized, individualized feedback, & code reviews
 
